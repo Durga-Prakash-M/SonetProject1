@@ -1,0 +1,2 @@
+rootProject.name = "SonetProject1"
+include ':app'
